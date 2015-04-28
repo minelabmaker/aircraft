@@ -24,7 +24,11 @@ git status
 
 如果要新建文件夹。
 mkdir microduino
+
 touch microduino/README
+
 git add microduino/
+
 git commit -m ‘microduino’
+
 git push
