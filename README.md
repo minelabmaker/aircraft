@@ -1,7 +1,7 @@
 # aircraft
 Github使用过程
 1、下载github上的库
-git clone https://github.com/minelabmaker/aircraft/.git
+git clone https://github.com/minelabmaker/aircraft.git
 
 2、将修改文件拷贝到相应文件夹下
 
