@@ -1,5 +1,8 @@
 # aircraft
-Github使用过程
+
+Linux/Mac 系统下Github使用方法（windows用户可以用专门的软件）
+
+Github使用过程（打开命令框）
 1、下载github上的库
 git clone https://github.com/minelabmaker/aircraft.git
 
